@@ -1,0 +1,57 @@
+{
+    "en": {
+      "home": "Home",
+      "products": "Products",
+      "about_us": "About Us",
+      "contact_us": "Contact Us",
+      "product_categories": "Product Categories",
+      "homeImg0":"Wide view: The large window design provides an excellent view, allowing you to fully enjoy the external scenery, especially the greenery and water features.  \nExcellent lighting: Large glass windows ensure ample natural light, making the interior brighter.  \nModern design: The window frame adopts simple lines and dark metallic materials, showcasing a modern design sense.  \nVentilation performance: Multiple windows can be opened independently, allowing flexible ventilation adjustment.  \nEnergy efficiency: Large windows can effectively utilize natural light, reducing reliance on artificial lighting.  \nPrivacy with a view: The view is wide but avoids direct proximity to neighboring buildings, protecting the privacy of the residents.",
+      "homeImg1":"",
+      "homeImg2":"",
+      "homeImg3":"",
+      "homeImg4":"",
+      "homeImg5":"",
+      "homeImg6":"",
+      "homeImg7":"",
+      "homeImg8":"",
+      "homeImg9":"",
+      "homeImg10":""
+    },
+    "zh": {
+      "home": "主页",
+      "products": "产品",
+      "about_us": "关于我们",
+      "contact_us": "联系我们",
+      "product_categories": "产品分类",
+      "homeImg0":"视野开阔：窗户设计宽大，视野极佳，可以充分欣赏外部的景观，特别是绿色植被和水景。\n采光极佳：大面积玻璃窗使得自然光充足，室内更加明亮。\n现代设计：窗框采用简洁线条和深色金属材质，展现现代化设计感。\n通风性能：多扇窗户可独立开启，便于灵活调整通风。\n节能环保：大窗户可以有效利用自然光，减少对人工照明的依赖。\n视线隐私兼具：视野既开阔，又能避开直接邻近的建筑，保护住户的隐私。",
+      "homeImg1":"",
+      "homeImg2":"",
+      "homeImg3":"",
+      "homeImg4":"",
+      "homeImg5":"",
+      "homeImg6":"",
+      "homeImg7":"",
+      "homeImg8":"",
+      "homeImg9":"",
+      "homeImg10":""
+    },
+    "ar": {
+      "home": "الصفحة الرئيسية",
+      "products": "المنتجات",
+      "about_us": "معلومات عنا",
+      "contact_us": "اتصل بنا",
+      "product_categories": "فئات المنتجات",
+      "homeImg0":"إطلالة واسعة: يوفر تصميم النوافذ الكبيرة إطلالة رائعة، مما يتيح لك الاستمتاع الكامل بالمناظر الخارجية، خاصةً النباتات الخضراء والمناظر المائية.  \nإضاءة ممتازة: تضمن النوافذ الزجاجية الكبيرة إضاءة طبيعية كافية، مما يجعل الداخل أكثر إشراقًا.  \nتصميم عصري: يتبنى إطار النافذة خطوطًا بسيطة ومواد معدنية داكنة، مما يعكس إحساسًا بالتصميم العصري.  \nأداء التهوية: يمكن فتح عدة نوافذ بشكل مستقل، مما يسمح بتعديل التهوية بمرونة.  \nكفاءة الطاقة: يمكن للنوافذ الكبيرة استخدام الضوء الطبيعي بشكل فعال، مما يقلل من الاعتماد على الإضاءة الصناعية.  \nخصوصية مع إطلالة: الإطلالة واسعة ولكنها تتجنب القرب المباشر من المباني المجاورة، مما يحمي خصوصية السكان.",
+      "homeImg1":"",
+      "homeImg2":"",
+      "homeImg3":"",
+      "homeImg4":"",
+      "homeImg5":"",
+      "homeImg6":"",
+      "homeImg7":"",
+      "homeImg8":"",
+      "homeImg9":"",
+      "homeImg10":""
+    }
+  }
+  
