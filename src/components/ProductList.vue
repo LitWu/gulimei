@@ -29,18 +29,18 @@ import { ref, computed } from "vue";
 
 // 数据源：产品列表（示例数据）
 const products = ref([
-  { id: 1, title: "产品 1", image: "../src/img/1.jpg" },
-  { id: 2, title: "产品 2", image: "../src/img/2.jpg" },
-  { id: 3, title: "产品 3", image: "../src/img/3.jpg" },
-  { id: 4, title: "产品 4", image: "../src/img/4.jpg" },
-  { id: 5, title: "产品 5", image: "../src/img/5.jpg" },
-  { id: 6, title: "产品 6", image: "../src/img/6.jpg" },
-  { id: 7, title: "产品 7", image: "../src/img/7.jpg" },
-  { id: 8, title: "产品 8", image: "../src/img/8.jpg" },
-  { id: 9, title: "产品 9", image: "../src/img/9.jpg" },
-  { id: 10, title: "产品 10", image: "../src/img/2.jpg" },
-  { id: 11, title: "产品 11", image: "../src/img/3.jpg" },
-  { id: 12, title: "产品 12", image: "../src/img/5.jpg" },
+  { id: 1, title: "产品 1", image: "img/1.jpg" },
+  { id: 2, title: "产品 2", image: "img/2.jpg" },
+  { id: 3, title: "产品 3", image: "img/3.jpg" },
+  { id: 4, title: "产品 4", image: "img/4.jpg" },
+  { id: 5, title: "产品 5", image: "img/5.jpg" },
+  { id: 6, title: "产品 6", image: "img/6.jpg" },
+  { id: 7, title: "产品 7", image: "img/7.jpg" },
+  { id: 8, title: "产品 8", image: "img/8.jpg" },
+  { id: 9, title: "产品 9", image: "img/9.jpg" },
+  { id: 10, title: "产品 10", image: "img/2.jpg" },
+  { id: 11, title: "产品 11", image: "img/3.jpg" },
+  { id: 12, title: "产品 12", image: "img/5.jpg" },
 ]);
 
 // 分页设置

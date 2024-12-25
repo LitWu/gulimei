@@ -38,7 +38,7 @@
                           overflow: hidden;
                           box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
                         ">
-                    <img :src="`../src/img/${1}.jpg`" alt="Windows" style="width: 100%; height: 100%; object-fit: cover;" />
+                    <img :src="`img/${0}.jpg`" alt="Windows" style="width: 100%; height: 100%; object-fit: cover;" />
                     <div style="
                             position: absolute;
                             bottom: 20px;
@@ -69,7 +69,8 @@
                           overflow: hidden;
                           box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
                         ">
-                    <img :src="`../src/img/${0}.jpg`" alt="Doors" style="width: 100%; height: 100%; object-fit: cover;" />
+                    <!-- <img src="/src/img/0.jpg"   alt="Doors" style="width: 100%; height: 100%; object-fit: cover;" /> -->
+                    <img :src="`img/${1}.jpg`" alt="Doors" style="width: 100%; height: 100%; object-fit: cover;" />
                     <div style="
                             position: absolute;
                             bottom: 20px;
@@ -86,7 +87,7 @@
                               padding: 5px 20px;
                               color: black;
                             ">
-                            View All Doors
+                            View All Doorssssssss
                         </el-button>
                     </div>
                 </div>

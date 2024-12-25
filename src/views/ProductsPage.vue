@@ -23,7 +23,7 @@
         "
       >
         <img
-          src="https://via.placeholder.com/300x350"
+          src="../../src/img/0.jpg"
           alt="Windows"
           style="width: 100%; height: 100%; object-fit: cover;"
         />
