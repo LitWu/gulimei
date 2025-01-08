@@ -48,10 +48,10 @@
       <!-- 文本部分 -->
       <div>
         <h2 style="font-size: 24px; font-weight: bold; margin-bottom: 20px;">
-          WANJIA is Focused on Bringing You Beautiful, Quality Window and Door
+          guguguguguguis Focused on Bringing You Beautiful, Quality Window and Door
         </h2>
         <p style="color: #666; line-height: 1.6; margin-bottom: 20px;">
-          WANJIA is a premium window and door manufacturer based in China. For over 19 years, we have provided our customers with high-quality customized window and door products. We use state-of-the-art equipment to make each product, ensuring quality, consistency, and long-lasting durability.
+          guguguguguguis a premium window and door manufacturer based in China. For over 19 years, we have provided our customers with high-quality customized window and door products. We use state-of-the-art equipment to make each product, ensuring quality, consistency, and long-lasting durability.
         </p>
         <h3 style="font-size: 18px; font-weight: bold; margin-bottom: 10px;">Our Advantages</h3>
         <ul style="padding-left: 20px; color: #666; line-height: 1.8;">
